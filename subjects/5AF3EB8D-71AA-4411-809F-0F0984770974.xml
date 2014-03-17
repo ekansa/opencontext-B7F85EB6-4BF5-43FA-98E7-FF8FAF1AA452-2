@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="5AF3EB8D-71AA-4411-809F-0F0984770974" ownedBy="B7F85EB6-4BF5-43FA-98E7-FF8FAF1AA452">
+  <arch:name>
+    <arch:string>11Wi747</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_9_eca17bcd6</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>E839409E-E3B6-494A-9B7A-824F0F59C6C1</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/72BD2361-5587-4B38-53E2-88ABF7C3FDAB">72BD2361-5587-4B38-53E2-88ABF7C3FDAB</oc:propid>
+          <oc:var_label type="">IAS</oc:var_label>
+          <oc:show_val>747</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FCA25B8A-0AD1-4845-2C2B-D6EAFBD7E86E</arch:variableID>
+          <arch:valueID>494F5630-8436-496F-A2B5-6E076E179082</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A9702BCE-01AA-49AF-4565-84AB08FE58A4">A9702BCE-01AA-49AF-4565-84AB08FE58A4</oc:propid>
+          <oc:var_label type="alphanumeric">Name</oc:var_label>
+          <oc:show_val>H. Reverman Farm</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EFFAC3D7-9B5C-4F31-A2A7-F6D25B5AA578</arch:variableID>
+          <arch:valueID>6A7326D8-9FF2-43FE-9AF0-6B492DE92987</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/65C92825-B68F-4066-5303-4143F6AD9A18">65C92825-B68F-4066-5303-4143F6AD9A18</oc:propid>
+          <oc:var_label type="alphanumeric">Field Number</oc:var_label>
+          <oc:show_val>98-JC-170</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A142DF70-FF19-46AB-93B1-B7EF4C247679</arch:variableID>
+          <arch:valueID>71285C21-49AC-4AE4-F699-B8A9E79EB91B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CA9C89F0-297D-4318-BFCF-D16E2EDF2433">CA9C89F0-297D-4318-BFCF-D16E2EDF2433</oc:propid>
+          <oc:var_label type="calendric">Recorded</oc:var_label>
+          <oc:show_val>1994-05-13</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A142DF70-FF19-46AB-93B1-B7EF4C247679</arch:variableID>
+          <arch:valueID>8CBA95B6-7B08-48BE-5B90-CCAB750C1EBF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5CF8D2EA-34CB-44B0-2FCF-99960D553067">5CF8D2EA-34CB-44B0-2FCF-99960D553067</oc:propid>
+          <oc:var_label type="calendric">Recorded</oc:var_label>
+          <oc:show_val>1998-03-06</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>55CCAF16-4949-4458-3452-CC95BE6A65B9</arch:variableID>
+          <arch:valueID>31BCF55B-7EAC-4E8F-51E1-8E5AD40E8E25</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/37B7A4C4-CC02-4E08-6856-DCDDCB11B71D">37B7A4C4-CC02-4E08-6856-DCDDCB11B71D</oc:propid>
+          <oc:var_label type="boolean">Revisit</oc:var_label>
+          <oc:show_val>N</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>55CCAF16-4949-4458-3452-CC95BE6A65B9</arch:variableID>
+          <arch:valueID>DF50EF41-41C8-44B5-A9FE-AFFB437A758B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B611A68D-45DF-4FDD-6D4A-5B804426D307">B611A68D-45DF-4FDD-6D4A-5B804426D307</oc:propid>
+          <oc:var_label type="boolean">Revisit</oc:var_label>
+          <oc:show_val>Y</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>223BF398-8661-49B6-5B9B-874909C6BED2</arch:variableID>
+          <arch:valueID>EDFDB694-AB82-4E60-1334-16083F6DF9BB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A19BF06B-F396-4DF2-2A31-5325B8FF583E">A19BF06B-F396-4DF2-2A31-5325B8FF583E</oc:propid>
+          <oc:var_label type="nominal">Survey method</oc:var_label>
+          <oc:show_val>Pedestrian</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>223BF398-8661-49B6-5B9B-874909C6BED2</arch:variableID>
+          <arch:valueID>271D4CE3-DE36-4DD9-9A7E-283CB1B80173</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/36B3F7B8-5F17-4047-22D0-2F6EB31D2847">36B3F7B8-5F17-4047-22D0-2F6EB31D2847</oc:propid>
+          <oc:var_label type="nominal">Survey method</oc:var_label>
+          <oc:show_val>Remote</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>223BF398-8661-49B6-5B9B-874909C6BED2</arch:variableID>
+          <arch:valueID>B2AADA3A-5D63-4AFA-7227-1B102B10DEFB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8AE3F9EC-EED2-49ED-47F4-E309EE34B206">8AE3F9EC-EED2-49ED-47F4-E309EE34B206</oc:propid>
+          <oc:var_label type="nominal">Survey method</oc:var_label>
+          <oc:show_val>Shovel Test</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>39C96BC8-0D5D-4861-1848-C0303F080C01</arch:variableID>
+          <arch:valueID>D22A4FE2-C706-4D82-E419-77D237E4ABCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B0824F04-5A07-4DB8-E278-02BAA4ACE4C9">B0824F04-5A07-4DB8-E278-02BAA4ACE4C9</oc:propid>
+          <oc:var_label type="nominal">Site type</oc:var_label>
+          <oc:show_val>Commercial</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>39C96BC8-0D5D-4861-1848-C0303F080C01</arch:variableID>
+          <arch:valueID>9DF45A77-6796-468F-4D56-D5E3802455C5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/55398438-6E07-4623-950E-F276C82CA0AE">55398438-6E07-4623-950E-F276C82CA0AE</oc:propid>
+          <oc:var_label type="nominal">Site type</oc:var_label>
+          <oc:show_val>Habitation</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F86F4817-AFBB-49E1-87EF-9EC8834F2D96</arch:variableID>
+          <arch:valueID>A0D7DA79-9D25-42FC-ECC1-A483FE0ECE42</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1B0A2021-91C4-41D5-AEA7-0F6AEE0932E2">1B0A2021-91C4-41D5-AEA7-0F6AEE0932E2</oc:propid>
+          <oc:var_label type="nominal">Site condition</oc:var_label>
+          <oc:show_val>Unknown</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F86F4817-AFBB-49E1-87EF-9EC8834F2D96</arch:variableID>
+          <arch:valueID>41BBFE60-9979-4667-EA09-1EA7EFA923DB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8192E457-321A-40BE-9AD7-8E82E92A843E">8192E457-321A-40BE-9AD7-8E82E92A843E</oc:propid>
+          <oc:var_label type="nominal">Site condition</oc:var_label>
+          <oc:show_val>None</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F170F27B-F8D6-494B-F596-D83D1C0C07C2</arch:variableID>
+          <arch:integer>0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/F2EEC4E9-3480-465C-2295-407D983C1371">F2EEC4E9-3480-465C-2295-407D983C1371</oc:propid>
+          <oc:var_label type="integer">Prehistoric artifacts</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>648D386E-8B75-455A-2288-309FD1A6B079</arch:variableID>
+          <arch:integer>0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/341597C4-61AB-4EEE-7361-446E66195BFE">341597C4-61AB-4EEE-7361-446E66195BFE</oc:propid>
+          <oc:var_label type="integer">Historical artifacts</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D099E3BE-A99E-4A56-ECC9-8EB5F5D41E50</arch:variableID>
+          <arch:valueID>31BCF55B-7EAC-4E8F-51E1-8E5AD40E8E25</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/875CE0DE-3CC5-46BE-897F-0E2F24CC0DE0">875CE0DE-3CC5-46BE-897F-0E2F24CC0DE0</oc:propid>
+          <oc:var_label type="nominal">Prehistoric diagnostic</oc:var_label>
+          <oc:show_val>N</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A1649E43-9780-4962-B8AE-D5DD3B5A43C8</arch:variableID>
+          <arch:valueID>31BCF55B-7EAC-4E8F-51E1-8E5AD40E8E25</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/89AB5514-62A0-4AA6-50FC-A837531EA3D7">89AB5514-62A0-4AA6-50FC-A837531EA3D7</oc:propid>
+          <oc:var_label type="nominal">Historical diagnostic</oc:var_label>
+          <oc:show_val>N</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1CEB5487-D9A2-40F4-27F4-6ABD4885EF5B</arch:variableID>
+          <arch:valueID>31BCF55B-7EAC-4E8F-51E1-8E5AD40E8E25</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/80A6E5A9-3472-414D-B835-7717666BB965">80A6E5A9-3472-414D-B835-7717666BB965</oc:propid>
+          <oc:var_label type="nominal">PRESURF</oc:var_label>
+          <oc:show_val>N</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E0B685C0-AF5C-46F9-A9F7-E2C4D9624962</arch:variableID>
+          <arch:valueID>31BCF55B-7EAC-4E8F-51E1-8E5AD40E8E25</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/351BA771-D320-4293-7B3F-9A06A095B258">351BA771-D320-4293-7B3F-9A06A095B258</oc:propid>
+          <oc:var_label type="nominal">HISSURF</oc:var_label>
+          <oc:show_val>N</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E0B685C0-AF5C-46F9-A9F7-E2C4D9624962</arch:variableID>
+          <arch:valueID>DF50EF41-41C8-44B5-A9FE-AFFB437A758B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DC863ACC-6F33-4745-6977-E9F028CC211A">DC863ACC-6F33-4745-6977-E9F028CC211A</oc:propid>
+          <oc:var_label type="nominal">HISSURF</oc:var_label>
+          <oc:show_val>Y</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D981C5F4-A978-434E-DA1A-20BA2A68178C</arch:variableID>
+          <arch:valueID>A81DCF49-C88F-42B8-CF17-C127C0239DE6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B647AAF8-C8B1-4E03-F8BF-5854CBF14A28">B647AAF8-C8B1-4E03-F8BF-5854CBF14A28</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Early Industrial</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="D981C5F4-A978-434E-DA1A-20BA2A68178C" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="B647AAF8-C8B1-4E03-F8BF-5854CBF14A28" localURI="http://opencontext.org/properties/B647AAF8-C8B1-4E03-F8BF-5854CBF14A28" href="http://opencontext.org/vocabularies/dinaa/00031">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>19th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D981C5F4-A978-434E-DA1A-20BA2A68178C</arch:variableID>
+          <arch:valueID>7610CA64-60CE-4031-C6FD-3179F940833B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1C6C8030-CB72-4DE3-00C1-6179C736FBBA">1C6C8030-CB72-4DE3-00C1-6179C736FBBA</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Urban Industrial</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="D981C5F4-A978-434E-DA1A-20BA2A68178C" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="1C6C8030-CB72-4DE3-00C1-6179C736FBBA" localURI="http://opencontext.org/properties/1C6C8030-CB72-4DE3-00C1-6179C736FBBA" href="http://opencontext.org/vocabularies/dinaa/00032">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>20th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D981C5F4-A978-434E-DA1A-20BA2A68178C</arch:variableID>
+          <arch:valueID>AFE681D5-DFEE-46FB-28DD-A4BC81A30FAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/35F5F056-4182-4331-24D0-6495CD154109">35F5F056-4182-4331-24D0-6495CD154109</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Frontier</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="D981C5F4-A978-434E-DA1A-20BA2A68178C" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="35F5F056-4182-4331-24D0-6495CD154109" localURI="http://opencontext.org/properties/35F5F056-4182-4331-24D0-6495CD154109" href="http://opencontext.org/vocabularies/dinaa/00031">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>19th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D981C5F4-A978-434E-DA1A-20BA2A68178C</arch:variableID>
+          <arch:valueID>D6FD5DA1-5421-4F9C-F6FA-752DEB1035CF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/495A09EC-3838-4E8B-CFD7-689887430638">495A09EC-3838-4E8B-CFD7-689887430638</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>Post War</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="D981C5F4-A978-434E-DA1A-20BA2A68178C" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="495A09EC-3838-4E8B-CFD7-689887430638" localURI="http://opencontext.org/properties/495A09EC-3838-4E8B-CFD7-689887430638" href="http://opencontext.org/vocabularies/dinaa/00032">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>20th Century</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FD3F4668-570F-4FD9-9644-2078BA4879C9</arch:variableID>
+          <arch:valueID>1EB9F1CE-21A6-4E9B-8197-940D38CC1C46</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/84DCB5B6-A54F-420B-5B63-B7047253A485">84DCB5B6-A54F-420B-5B63-B7047253A485</oc:propid>
+          <oc:var_label type="alphanumeric">Surveyor</oc:var_label>
+          <oc:show_val>Douglas Kullen</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FD3F4668-570F-4FD9-9644-2078BA4879C9</arch:variableID>
+          <arch:valueID>D73E3AA1-2CFF-46FF-0AB7-937E2F5BBDC6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/983657CD-3DCD-4E8A-FF71-DDDA10EE23F5">983657CD-3DCD-4E8A-FF71-DDDA10EE23F5</oc:propid>
+          <oc:var_label type="alphanumeric">Surveyor</oc:var_label>
+          <oc:show_val>J. Carr</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>065923C1-65CA-480F-28BB-714C2763621E</arch:variableID>
+          <arch:valueID>6A7961E1-A285-4BC2-1C09-45FF567AFC6D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A9F7DC94-8510-49E8-94B0-C7B2DCC66FDA">A9F7DC94-8510-49E8-94B0-C7B2DCC66FDA</oc:propid>
+          <oc:var_label type="alphanumeric">Institution</oc:var_label>
+          <oc:show_val>AA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>065923C1-65CA-480F-28BB-714C2763621E</arch:variableID>
+          <arch:valueID>EA521EB3-C497-40BC-457D-6C66D46DEBA7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/10A7273E-43F4-413B-854E-D25C7D2A9C1C">10A7273E-43F4-413B-854E-D25C7D2A9C1C</oc:propid>
+          <oc:var_label type="alphanumeric">Institution</oc:var_label>
+          <oc:show_val>CAV</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A4F2D5BD-B0DF-42AD-810C-591CFC5E545C</arch:variableID>
+          <arch:valueID>2011047A-2327-4FBA-5742-C7DFF14E5D5A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9532B1A6-B25C-42D0-5AA2-2DFB77834C93">9532B1A6-B25C-42D0-5AA2-2DFB77834C93</oc:propid>
+          <oc:var_label type="alphanumeric">Survey Date</oc:var_label>
+          <oc:show_val>7/29/1992</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A4F2D5BD-B0DF-42AD-810C-591CFC5E545C</arch:variableID>
+          <arch:valueID>93F2B4AB-393A-4F41-A548-BEAA8AA06461</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/39DB9E01-FC93-481C-21CD-D6234CB2BB69">39DB9E01-FC93-481C-21CD-D6234CB2BB69</oc:propid>
+          <oc:var_label type="alphanumeric">Survey Date</oc:var_label>
+          <oc:show_val>1/27/1998</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>308FBD46-A049-4532-754D-4D9BB57B7047</arch:variableID>
+          <arch:valueID>D73E3AA1-2CFF-46FF-0AB7-937E2F5BBDC6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/487DE8E1-CF22-4036-1D24-6560FF17B06F">487DE8E1-CF22-4036-1D24-6560FF17B06F</oc:propid>
+          <oc:var_label type="alphanumeric">Survey report by</oc:var_label>
+          <oc:show_val>J. Carr</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>308FBD46-A049-4532-754D-4D9BB57B7047</arch:variableID>
+          <arch:valueID>1EB9F1CE-21A6-4E9B-8197-940D38CC1C46</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/75A64C6D-6E25-439D-86C4-8A10BB52CB48">75A64C6D-6E25-439D-86C4-8A10BB52CB48</oc:propid>
+          <oc:var_label type="alphanumeric">Survey report by</oc:var_label>
+          <oc:show_val>Douglas Kullen</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6D895751-3D10-4842-B42E-F953B22672FB</arch:variableID>
+          <arch:valueID>6A7961E1-A285-4BC2-1C09-45FF567AFC6D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/123048F1-C830-43DD-1E3B-97E86A16B36D">123048F1-C830-43DD-1E3B-97E86A16B36D</oc:propid>
+          <oc:var_label type="alphanumeric">Institution (2)</oc:var_label>
+          <oc:show_val>AA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6D895751-3D10-4842-B42E-F953B22672FB</arch:variableID>
+          <arch:valueID>EA521EB3-C497-40BC-457D-6C66D46DEBA7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/600A1A15-045D-4FFA-282E-C3F8883DBDFB">600A1A15-045D-4FFA-282E-C3F8883DBDFB</oc:propid>
+          <oc:var_label type="alphanumeric">Institution (2)</oc:var_label>
+          <oc:show_val>CAV</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2D9D6E73-7E42-4FF4-A817-43E9E2A4C939</arch:variableID>
+          <arch:valueID>6F73A417-8E3D-4788-F6B1-160C5D1350B2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BA4DEBE0-E9BA-4406-5728-12DB9D04050E">BA4DEBE0-E9BA-4406-5728-12DB9D04050E</oc:propid>
+          <oc:var_label type="alphanumeric">Report date</oc:var_label>
+          <oc:show_val>1/11/1994</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2D9D6E73-7E42-4FF4-A817-43E9E2A4C939</arch:variableID>
+          <arch:valueID>1EFD0118-A0EE-4002-D12B-346079D12A16</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9D5972B9-0521-4426-68F2-8A9DDF2FDBC0">9D5972B9-0521-4426-68F2-8A9DDF2FDBC0</oc:propid>
+          <oc:var_label type="alphanumeric">Report date</oc:var_label>
+          <oc:show_val>1/29/1998</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8ED3CCE2-8341-45A8-FD67-95EE209E7470</arch:variableID>
+          <arch:valueID>E8934314-51EE-444E-A79A-105D03FDDF63</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/93D4BF16-B049-4DFA-2BDC-347831CC5D9E">93D4BF16-B049-4DFA-2BDC-347831CC5D9E</oc:propid>
+          <oc:var_label type="alphanumeric">IHPA log number</oc:var_label>
+          <oc:show_val>980205007KWI</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3B53047D-2F06-470A-6950-C53B0E776CD6</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/BD3D1111-FF4C-48C6-5B51-0364FBE5CF21">BD3D1111-FF4C-48C6-5B51-0364FBE5CF21</oc:propid>
+          <oc:var_label type="alphanumeric">Document number</oc:var_label>
+          <oc:show_val>8541</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>40254404-828A-445F-EA62-1DE10938C332</arch:variableID>
+          <arch:valueID>31BCF55B-7EAC-4E8F-51E1-8E5AD40E8E25</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1C8DAB24-1667-4A8E-DC87-1BD01144356E">1C8DAB24-1667-4A8E-DC87-1BD01144356E</oc:propid>
+          <oc:var_label type="nominal">NRHP listed</oc:var_label>
+          <oc:show_val>N</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8C975D4F-8644-441A-39F3-4A00BBBC91C9">
+        <oc:name>Illinois</oc:name>
+        <oc:id>8C975D4F-8644-441A-39F3-4A00BBBC91C9</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/683C6A26-CDB1-414C-9A53-63320A98C6E6">
+        <oc:name>Will</oc:name>
+        <oc:id>683C6A26-CDB1-414C-9A53-63320A98C6E6</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Illinois Site Files: 11Wi747 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-03-15</dc:date>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>Illinois</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/">Illinois State Museum (ISM)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/5AF3EB8D-71AA-4411-809F-0F0984770974</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/B7F85EB6-4BF5-43FA-98E7-FF8FAF1AA452">Illinois Site Files</oc:project_name>
+    <oc:pub_date>2014-03-15T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Illinois+Site+Files%3A+11Wi747+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=Illinois&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Illinois+State+Museum+%28ISM%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F5AF3EB8D-71AA-4411-809F-0F0984770974</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>41.705695032221</oc:geo_lat>
+      <oc:geo_long>-88.154296875</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/5AF3EB8D-71AA-4411-809F-0F0984770974" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>11Wi747</oc:source_name>
+        <oc:source_id>5AF3EB8D-71AA-4411-809F-0F0984770974</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/publicdomain/zero/1.0/">
+      <oc:lic_name>Zero (Public Domain)</oc:lic_name>
+      <oc:lic_vers>1</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/publicdomain/zero/1.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/p/zero/1.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-03-16T12:22:53-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/03/16 12:22:53</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1841 CE - 1950 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1841</oc:time_start>
+          <oc:time_finish>1950</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/5AF3EB8D-71AA-4411-809F-0F0984770974">
+            <oc:source_name>11Wi747</oc:source_name>
+            <oc:source_id>5AF3EB8D-71AA-4411-809F-0F0984770974</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-03-14T10:43:19-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
